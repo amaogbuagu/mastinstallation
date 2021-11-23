@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://18.116.29.222:8081/repository/mast-release/</url>
+	      <url>http://18.116.29.222:8081/repository/mast-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://http://18.116.29.222:8081/repository/mast-snapshot/</url>
+	      <url>http://18.116.29.222:8081/repository/mast-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
